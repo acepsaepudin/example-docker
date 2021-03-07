@@ -1,0 +1,23 @@
+{
+  "name": "contoh-docker",
+  "version": "1.0.0",
+  "description": "contoh docker visitor sederhana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acepsaepudin/example-docker.git"
+  },
+  "author": "Acep Saepudin <info@acep.web.id>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acepsaepudin/example-docker/issues"
+  },
+  "homepage": "https://github.com/acepsaepudin/example-docker#readme",
+  "dependencies": {
+    "ip": "^1.1.5"
+  }
+}
